@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    This is <a href=""><b>NotSid</b></a>, B.Tech CSE'20 from <a href=""> <b> AITH </b>, Kanpur</a>. <br>
+    This is <a href="https://github.com/knotsid"><b>NotSid</b></a>, B.Tech CSE'20 from <a href=""> <b> AITH </b>, Kanpur</a>. <br>
     A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="gif/Rocket.gif" width="18px"> and 
@@ -50,8 +50,8 @@
   <img align="center" src="languages/html5.svg" width="40px" />&nbsp;
   <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
-  <!---<img align="center" src="languages/java.svg" width="43px" />&nbsp;
   <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
+  <!---<img align="center" src="languages/java.svg" width="43px" />&nbsp;
   <img align="center" src="languages/angular.svg" width="35px" />&nbsp;
   <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
   <img align="center" src="languages/RegEx.png" width="40px" />&nbsp;--->
