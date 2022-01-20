@@ -16,9 +16,6 @@
     <a href="https://www.hackerrank.com/knotsid?hr_r=1">
       <img align="center" alt="NotSid @Hackerrank" width="22px" src="handles/hackerrank.svg" />
     </a>
-    <a href="https://www.codechef.com/users/notsid">
-      <img align="center" alt="NotSid @CodeChef" width="25px" src="handles/codechef.svg" />
-    </a>
   </p>
 </h1>
 
@@ -51,7 +48,7 @@
   <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
   <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
-  <img align="center" src="languages/reactjs.svg" width="40px" />&nbsp;
+<!--   <img align="center" src="languages/reactjs.svg" width="40px" />&nbsp; -->
   <!---<img align="center" src="languages/java.svg" width="43px" />&nbsp;
   <img align="center" src="languages/angular.svg" width="35px" />&nbsp;
   <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
