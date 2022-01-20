@@ -16,8 +16,8 @@
     <a href="https://www.hackerrank.com/knotsid?hr_r=1">
       <img align="center" alt="NotSid @Hackerrank" width="22px" src="handles/hackerrank.svg" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/">
-      <img align="center" alt="NotSid @Geeksforgeeks" width="25px" src="handles/geeksforgeeks.svg" />
+    <a href="https://www.codechef.com/users/notsid">
+      <img align="center" alt="NotSid @CodeChef" width="25px" src="handles/codechef.svg" />
     </a>
   </p>
 </h1>
@@ -25,32 +25,33 @@
 <p align="center">
   <em>
     This is <a href="https://github.com/knotsid"><b>NotSid</b></a>, B.Tech CSE'20 from <a href=""> <b> AITH </b>, Kanpur</a>. <br>
-    A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,
+    <br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="gif/Rocket.gif" width="18px"> and 
     <b>excel</b> <img src="gif/Medal.gif" width="20px">&nbsp.
   </em> 
-  <br>
-  <br>
-  <i>I believe in <b><i>POWER OF COMMUNITY</i></b> <img src="gif/Handshake.gif" width="70px">
+  <br/>
+  <i>I believe in <b><i>POWER OF COMMUNITY</i></b><br/>
+    <strong>Share what you learn.</strong>
 </p>
  <br />
 
 &nbsp;**_Talking about Personal Stuffs:_**<br/>
 🎓 B.Tech CSE'20 from AITH, Kanpur<br/>
 👨‍💻 A budding web developer<br/>
-🎯 Open source enthusiast<br/>
+🎯 Interested in icon/graphic design nd animation<br/>
 
 <hr>
 
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  <!---<img align="center" src="languages/java.svg" width="43px" />&nbsp;--->
   <img align="center" src="languages/html5.svg" width="40px" />&nbsp;
   <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
   <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/reactjs.svg" width="40px" />&nbsp;
   <!---<img align="center" src="languages/java.svg" width="43px" />&nbsp;
   <img align="center" src="languages/angular.svg" width="35px" />&nbsp;
   <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
