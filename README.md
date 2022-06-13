@@ -1,4 +1,4 @@
-<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<!-- <h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
       <a href="https://www.linkedin.com/in/notsid/">
@@ -33,7 +33,7 @@
     <strong>Share what you learn.</strong>
 </p>
  <br />
-
+ -->
 &nbsp;**_Talking about Personal Stuffs:_**<br/>
 🎓 B.Tech CSE'20 from AITH, Kanpur<br/>
 👨‍💻 A budding web developer<br/>
