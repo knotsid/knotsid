@@ -1,4 +1,4 @@
-# 🌌 Siddhartha Kumar AKA NOTSID
+# 🌌 Siddhartha Kumar AKA NOTSID <img src="gif/hello.png" height="30"  >
 
 **`Digital Craftsman (Web Developer/Front-End Developer)`**
 
@@ -6,7 +6,7 @@ Hello there! I'm a self-taught Software-Engineer building the best version of my
 All projects are built from ground up, with the aim of getting better at backend management.<br>
 I'm currently working on personal projects and improving on everything Front-End related.
 
-&nbsp;**_Talking about Personal Stuffs:_**<br/>
+&nbsp;**_Talking about Personal Stuffs:_**<br/><br/>
 🎓 Currently pursuing B.Tech in Computer Science and Engineering, India<br/>
 👨‍💻 I enjoy learning about and experimenting with new technology.<br/>
 🎯 Interested in reading books and watching anime<br/>
@@ -52,7 +52,7 @@ I'm currently working on personal projects and improving on everything Front-End
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://profile-counter.glitch.me/knotsid/count.svg" /><br>
-  <img src="gif/hello.gif" height="400" autoplay>
+  <img src="gif/hello.gif" height="400">
   
 </p>
 
