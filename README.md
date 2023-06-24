@@ -40,7 +40,7 @@ I'm currently working on personal projects and improving on everything Front-End
   <br><br>
 
 <p align="center">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=knotsid&theme=dark&stroke=EB5454&sideNums=91EB95&sideLabels=A093EB" alt="knotsid stats" /><br><br>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=knotsid&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="knotsid stats" /><br><br>
 <i><b>GitHub Activity:</b></i><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=knotsid&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=knotsid&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages">
