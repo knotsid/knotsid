@@ -21,16 +21,16 @@ I'm currently working on personal projects and improving on everything Front-End
 <img align="left" alt="React" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="28px" style="padding:15px; filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Sass" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="NodeJS" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bootstrap" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Tailwind" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Express" width="28px" style="padding:15px; filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Express" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Firebase" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Graphql" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="MongoDb" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Nextjs" width="28px" style="padding:15px; filter: invert(100%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Nextjs" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Redux" width="28px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <br/><br/>
 <hr><br/>
