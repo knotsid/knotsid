@@ -1,12 +1,12 @@
 # 🌌 Siddhartha Kumar AKA NOTSID <img src="gif/hello.png" height="30"  >
 
-**`Digital Craftsman (Web Developer/Front-End Developer)`**
+**`Digital Craftsman (Web Developer / Frontend Developer)`**
 
 Hello there! I'm a self-taught Software-Engineer building the best version of myself one step at a time.<br>
-All projects are built from ground up, with the aim of getting better at backend management.<br>
-I'm currently working on personal projects and improving on everything Front-End related.
+All projects are built from ground up, with the aim of getting better at frontend.<br>
+I'm currently working on personal projects and improving 1% everyday.
 
-&nbsp;**_Talking about Personal Stuffs:_**<br/><br/>
+&nbsp; <h4>**_Talking about Personal Stuffs:_**</h4>
 🎓 Currently pursuing B.Tech in Computer Science and Engineering, India<br/>
 👨‍💻 I enjoy learning about and experimenting with new technology.<br/>
 🎯 Interested in reading books and watching anime<br/>
@@ -36,14 +36,15 @@ I'm currently working on personal projects and improving on everything Front-End
 <hr><br/>
 
 <p align = "center">
-  <i><b>GitHub Stats:</b></i>
-  <br><br>
+<h2 align="left">✨Github Stats:</h2>
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=knotsid&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="knotsid stats" /><br><br>
-<i><b>GitHub Activity:</b></i><br><br>
+<h4 align="left">✨Github Activity:</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=knotsid&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=knotsid&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages">
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=knotsid&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages"> -->
+ <h4 align="left">⚡Activity Graph:</h4>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=knotsid&theme=react-dark" />
 </p>
 
 <hr>
