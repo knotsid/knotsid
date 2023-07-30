@@ -66,7 +66,8 @@
 <p align="center"> 
   <b>Profile Visitor Count...</b><br><br>
   <img src="https://profile-counter.glitch.me/knotsid/count.svg" /><br>
-  <img src="gif/hello.gif" height="400" autoplay>
+  <img src="hello.gif" height="400" autoplay>
+  <!-- ![hello](hello.gif) -->
   
 </p>
 
