@@ -1,4 +1,4 @@
-# 🌌 Siddhartha Kumar AKA NOTSID <img src="gif/hello.png" height="30"  >
+# 🌌 Siddhartha Kumar AKA NOTSID <img src="hello.png" height="30"  >
 
 **`Digital Craftsman (Web Developer / Frontend Developer)`**
 
