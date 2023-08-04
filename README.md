@@ -55,7 +55,7 @@
 <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=knotsid&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="knotsid stats" /><br><br>
 <!-- <h3 align="left">✨Github Activity:</h3> -->
-<img src="https://github-readme-stats.vercel.app/api?username=knotsid&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=knotsid&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br> -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=knotsid&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages"> -->
 
 <img src="https://raw.githubusercontent.com/knotsid/github-stats-gen/master/generated/overview.svg#gh-dark-mode-only"/>
