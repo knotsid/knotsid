@@ -58,9 +58,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=knotsid&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br>
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=knotsid&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages"> -->
 
-<img src="https://github.com/knotsid/github-stats-gen/blob/master/generated/overview.svg"/>
+<img src="https://raw.githubusercontent.com/knotsid/github-stats-gen/master/generated/overview.svg#gh-dark-mode-only"/>
 
-<img src="https://github.com/knotsid/github-stats-gen/blob/master/generated/languages.svg"/>
+<img src="https://raw.githubusercontent.com/knotsid/github-stats-gen/master/generated/languages.svg#gh-dark-mode-only"/>
 
 
  <h3 align="left">⚡Activity Graph:</h3>
