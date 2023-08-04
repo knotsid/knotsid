@@ -57,6 +57,11 @@
 <!-- <h3 align="left">✨Github Activity:</h3> -->
 <img src="https://github-readme-stats.vercel.app/api?username=knotsid&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br>
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=knotsid&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages"> -->
+
+![](https://raw.githubusercontent.com/knotsid/github-stats-gen/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/knotsid/github-stats-gen/master/generated/languages.svg#gh-dark-mode-only)
+
+
  <h3 align="left">⚡Activity Graph:</h3>
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=knotsid&theme=react-dark" />
 </p>
