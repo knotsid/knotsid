@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Web Developer / Frontend Developer)`**
 
-☑️ Hello there! I'm a self-taught Software-Engineer building the best version of myself one step at a time.
+☑️ Hello there! I'm a self-taught Frontend Developer building the best version of myself one step at a time.
 
 ☑️ All projects are built from ground up, with the aim of getting better at frontend..
 
@@ -13,7 +13,7 @@
 
 🎓 Engineering Grad'24 pursuing my bechelor in CSE from Dr.AITH, Kanpur.<br/>
 👨‍💻 I have previously worked as a Fullstack intern at NullClass Education Private Limited.<br/>
-🎯 I have a keen interest in frontend development and am trying my hands at beckend development.<br/>
+🎯 I have a keen interest in frontend development and am trying my hands at backend development.<br/>
 
 ---
 
