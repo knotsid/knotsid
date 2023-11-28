@@ -11,7 +11,7 @@
 
 #### Talking about Personal Stuffs:
 
-🎓 I am a pre-final year undergraduate student, pursuing my degree in B.Tech (CSE) from Dr.AITH, Kanpur.<br/>
+🎓 Engineering Grad'24 pursuing my bechelor in CSE from Dr.AITH, Kanpur.<br/>
 👨‍💻 I have previously worked as a Fullstack intern at NullClass Education Private Limited.<br/>
 🎯 I have a keen interest in frontend development and am trying my hands at beckend development.<br/>
 
